@@ -14,6 +14,10 @@
 - Quick container launching with a single keystroke
 - Fuzzy search through image repositories and tags
 
+
+https://github.com/user-attachments/assets/c6fb2ee5-5b88-4de5-ac75-0c74175064c5
+
+
 ## Prerequisites
 - Neovim (>= 0.9.5)
 - [Telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
